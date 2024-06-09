@@ -1,0 +1,12 @@
+.navbar-container{
+    background-color: tomato;
+    padding: 10px;
+}
+.nav-item{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 7px 22px;
+    margin: 10px;
+}
